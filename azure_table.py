@@ -18,7 +18,7 @@ from us_lat_long import *
 load_dotenv()
 
 # Fetch the connection string from environment variables
-CONNECTION_STRING = "DefaultEndpointsProtocol=https;AccountName=ragchatfiles;AccountKey=09QmkXb6fhd0Qb1vEDKAIjO8OuH2y13A7LbdmPxvrbWzpiaaCeIY5HpXjjPJk3uAwaTdLXnNjwll+ASt8ebWrw==;EndpointSuffix=core.windows.net"
+CONNECTION_STRING = ""
 
 # def getalltablesname():
 #     tablename = []
